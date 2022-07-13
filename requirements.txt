@@ -4,3 +4,4 @@ django-heroku
 requests
 bs4
 sparql-dataframe==0.4
+flask
